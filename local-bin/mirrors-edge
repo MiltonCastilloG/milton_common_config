@@ -1,0 +1,2 @@
+#!/bin/bash
+steam -silent -applaunch 17410
